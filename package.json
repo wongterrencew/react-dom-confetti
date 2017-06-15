@@ -1,6 +1,6 @@
 {
   "name": "wongterrencew-react-dom-confetti",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "react component for dom-confetti",
   "main": "lib/confetti.js",
   "keywords": [
