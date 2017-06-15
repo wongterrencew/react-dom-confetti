@@ -1,5 +1,5 @@
 {
-  "name": "@wongterrencew/react-dom-confetti",
+  "name": "wongterrencew-react-dom-confetti",
   "version": "0.0.7",
   "description": "react component for dom-confetti",
   "main": "lib/confetti.js",
